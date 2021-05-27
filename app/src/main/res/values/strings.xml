@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SecurityRoom</string>
+    <string name="app_text">侵入を検知します</string>
+</resources>
